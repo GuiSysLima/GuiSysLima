@@ -1,12 +1,12 @@
-<h1 align="center">Olá!👋</h1>
+<h1 align="center">Hi!👋</h1>
 
 <p align="center">
-    <b>Bem-vindo ao meu perfil!</b><br><br>
+    <b>Welcome to my profile!</b><br><br>
     <i>
-        Meu nome é Guilherme.<br>
-        Graduando em ciências da computação.<br>
-        Interessado em desenvolvimento de aplicações.<br>
-        Sempre em busca de conhecimento!<br>
+        I'm Guilherme. 🇧🇷 <br>
+        Graduating in Computer Science.<br>
+        Interested in application development.<br>
+        Always in seeking knowledge!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/guilherme-rutemberg">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
