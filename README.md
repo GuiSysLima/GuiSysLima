@@ -28,11 +28,11 @@
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/GuiSysLima)
+[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://github.com/GuiSysLima)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/GuiSysLima)
+[![Ruby_on_rails](https://img.shields.io/badge/Ruby%20on%20Rails-black?style=for-the-badge&logo=ruby)](https://github.com/GuiSysLima)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/GuiSysLima)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/GuiSysLima)
-[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://github.com/GuiSysLima)
-[![Ruby_on_rails](https://img.shields.io/badge/Ruby%20on%20Rails-black?style=for-the-badge&logo=ruby)](https://github.com/GuiSysLima)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GuiSysLima)
