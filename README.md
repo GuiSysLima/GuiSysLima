@@ -1,59 +1,58 @@
-<h1 align="center">Hi!👋</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-    <b>Welcome to my profile!</b><br><br>
-    <i>
-        I'm Guilherme. 🇧🇷 <br>
-        Graduating in Computer Science.<br>
-        Interested in application development.<br>
-        Always in seeking knowledge!<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/guilherme-rutemberg">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:guilhermerutemfelix@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-</p>
+###
 
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/GuiSysLima)
-[![MicroPython](https://img.shields.io/badge/MicroPython-black?style=for-the-badge&logo=python)](https://github.com/GuiSysLima)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/GuiSysLima)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/GuiSysLima)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/GuiSysLima)
-[![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby)](https://github.com/GuiSysLima)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/GuiSysLima)
-[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/GuiSysLima)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="60" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+</div>
 
-### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/GuiSysLima)
-[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://github.com/GuiSysLima)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/GuiSysLima)
-[![Ruby_on_rails](https://img.shields.io/badge/Ruby%20on%20Rails-black?style=for-the-badge&logo=ruby)](https://github.com/GuiSysLima)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/GuiSysLima)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/GuiSysLima)
+###
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/GuiSysLima)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GuiSysLima)
-
-<details>
-<p align="center">
-  <a href="https://github.com/GuiSysLima">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuiSysLima&theme=transparent" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-rutemberg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/GuiSysLima">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSysLima&hide_border=true&card_width=338&theme=transparent" />
+  <a href="guilhermerutemfelix@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/GuiSysLima">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiSysLima&theme=transparent" />
-  </a>
-</p>
-</details>
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/GuiSysLima">
-    <img src="https://komarev.com/ghpvc/?username=GuiSysLima&color=blue&style=flat)" />
-  </a>
-</p>
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GuiSysLima&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=GuiSysLima&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiSysLima/GuiSysLima/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiSysLima/GuiSysLima/output/pacman-contribution-graph.svg">
+  <img alt="contributions" src="https://raw.githubusercontent.com/GuiSysLima/GuiSysLima/output/pacman-contribution-graph.svg">
+</picture>
+
+###
