@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=CV%20(English)&logo=adobeacrobatreader&label=&color=EE3F2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv english"  />
   </a>
   <a href="https://github.com/GuiSysLima/GuiSysLima/raw/main/assets/CV_Portuguese_.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CV (Portuguese)&logo=adobeacrobatreader&label=&color=EE3F2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv portugues"  />
+    <img src="https://img.shields.io/static/v1?message=CV%20(Portuguese)&logo=adobeacrobatreader&label=&color=EE3F2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv portugues"  />
   </a>
 
 </div>
