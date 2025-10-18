@@ -42,10 +42,10 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
 
   <a href="https://github.com/GuiSysLima/GuiSysLima/raw/main/assets/CV_english_.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Download%20CV%20(EN)&logo=adobeacrobatreader&label=&color=EE3F2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv english"  />
+    <img src="https://img.shields.io/static/v1?message=CV (English)&logo=adobeacrobatreader&label=&color=EE3F2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv english"  />
   </a>
   <a href="https://github.com/GuiSysLima/GuiSysLima/raw/main/assets/CV_Portuguese_.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Download%20CV%20(PT)&logo=adobeacrobatreader&label=&color=EE3F2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv portugues"  />
+    <img src="https://img.shields.io/static/v1?message=CV (Portuguese)&logo=adobeacrobatreader&label=&color=EE3F2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv portugues"  />
   </a>
 
 </div>
