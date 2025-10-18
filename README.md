@@ -59,6 +59,9 @@
 
 ###
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=guilhermerutemfelix&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=49175a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=guilhermerutemfelix&redirect=true)
+
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiSysLima/GuiSysLima/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiSysLima/GuiSysLima/output/pacman-contribution-graph.svg">
