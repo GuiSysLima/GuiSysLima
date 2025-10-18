@@ -7,6 +7,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -38,6 +40,14 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+
+  <a href="https://github.com/GuiSysLima/GuiSysLima/assets/CV_english_.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Download%20CV%20(EN)&logo=adobeacrobatreader&label=&color=EE3F2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv english"  />
+  </a>
+  <a href="https://github.com/GuiSysLima/GuiSysLima/assets/CV_Portuguese_.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Download%20CV%20(PT)&logo=adobeacrobatreader&label=&color=EE3F2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv portugues"  />
+  </a>
+
 </div>
 
 ###
